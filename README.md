@@ -1,2 +1,2 @@
 # seawaydataplazma
-Seaway Electrotech Backend
+Seaway Backend 
