@@ -11,7 +11,7 @@ const collectContactUs = collection(cloudDb, "contactForm");
 
 const my_email_api_key = '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'
 const sender_email = 'jayinfotech24@gmail.com'
-const receiver_email = 'mevadajay2002@gmail.com'
+const receiver_email = 'seawayelectrotech@gmail.com'
 
 const app = express();
 
